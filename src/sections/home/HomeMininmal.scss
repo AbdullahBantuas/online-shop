@@ -1,0 +1,6 @@
+.CardBackground:hover {
+    background-image: url('../../../public/assets/backgrounds/service-hover-bg-effect.png');
+    background-size: cover;
+    transform: translateZ(1px);
+    transition: 0.2s ease-in-out;
+}

@@ -1,0 +1,14 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="backgroundsection" clip-path="url(#clip0_518_16)">
+<rect width="1920" height="1080" fill="#B6BCBC"/>
+<circle id="Ellipse 288" cx="37" cy="157" r="223.5" stroke="black" stroke-width="3" stroke-dasharray="14 14"/>
+<circle id="Ellipse 287" cx="37" cy="157" r="173.5" stroke="black" stroke-width="3" stroke-dasharray="14 14"/>
+<circle id="Ellipse 289" cx="960" cy="1108" r="248.5" stroke="black" stroke-width="3" stroke-dasharray="14 14"/>
+<circle id="Ellipse 290" cx="960" cy="1108" r="188.5" stroke="black" stroke-width="3" stroke-dasharray="14 14"/>
+</g>
+<defs>
+<clipPath id="clip0_518_16">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
